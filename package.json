@@ -1,0 +1,8 @@
+{
+  "name": "github-serverless-oauth",
+  "author": "Cristyan Sepulveda V.",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
